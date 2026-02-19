@@ -57,6 +57,18 @@ A dedicated staging sheet (`Calculations`) was created to aggregate data and per
 
 The final step involved building the visual interface. The dashboard links directly to the calculated tables to provide dynamic updates.
 
+
+
+
+![Uploading gif.gif…]()
+![Uploading gif.gif…]()
+![Uploading gif.gif…]()
+![Uploading gif.gif…]()
+
+
+
+
+
 _Above: A preview of the interactive dashboard in action._
 
 **Visual Elements Include:**
