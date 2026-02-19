@@ -61,12 +61,6 @@ The final step involved building the visual interface. The dashboard links direc
 
 
 ![Uploading gif.gif…]()
-![Uploading gif.gif…]()
-![Uploading gif.gif…]()
-![Uploading gif.gif…]()
-
-
-
 
 
 _Above: A preview of the interactive dashboard in action._
